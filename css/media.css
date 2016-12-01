@@ -1,0 +1,41 @@
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+.bg-image{
+ 	margin-top: 0%;
+ 	height: 360px;
+}
+.logo{
+	width: 70%;
+}
+h1{
+	font-size: 2em;
+}
+h4,h5{
+	font-size: .5em;
+}
+.btn-lg{
+	width: 30%;
+	font-size: 1em;
+	margin-left: 0;	
+}
+.bg-opacity{
+	height: 360px;
+}
+.icon-size{
+	font-size: 2em;
+	padding: 3%;
+}
+.cf{
+	font-size: 1em;
+	margin-top: 5%;
+}
+.sobre{
+    transform: scale(8, 0.5);
+}

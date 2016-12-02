@@ -120,6 +120,12 @@ h1{
 	margin-bottom: 0%;
 }
 
+#titulo1{
+	margin-top: 2%;
+	margin-left: -27%;
+	margin-bottom: 0%;
+}
+
 .cont-descripcion{
 	width: 520px;
 	height: 200px;
@@ -501,7 +507,7 @@ h5 {
 }
 
 #text-bar-github{
-	right:567px;
+	right:410px;
 }
 
 .bars{

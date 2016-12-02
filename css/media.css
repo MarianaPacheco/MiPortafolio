@@ -5,6 +5,200 @@
 
 } */
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 760px) {
+	.hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+    	background-color: #FFFFFF!important;
+	}
 
+	.hamburger-box {
+    	margin-left: 200px;
+	}
+	
+	.navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+    	color: #FFF;
+	}
+
+	.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+    	color: #fff;
+    	background-color: #d85338;
+	}
+
+	h1{
+		font-size: 2em;
+	}
+
+	.title-coder{
+		padding-top: 30%;
+		margin-left: 0%;
+	}
+
+	#texto, .mt-parrafo{
+		font-size: 1em;
+	}
+
+	.cont-home{
+		margin-left: 12%;
+		color: #FFF;
+		margin-top: 25%;
+		width: 70%;
+		height: 100vh;
+		font-size: 1.3em;
+	}
+
+	#section2{
+	background-color: #FFFFFF;
+	padding: 0% 0 0 0;
+	}
+
+
+	.titulo{
+		margin-top: 28%;
+		margin-left: -28%;
+	}
+
+	#titulo1{
+		margin-top: 2%;
+		margin-left: -11%;
+		margin-bottom: 0%;
+	}
+
+	#titulo{
+		margin-left: -11%;
+		margin-bottom: 0%;
+		margin-top: 28%;
+	}
+
+	.hr-orange2 {
+		margin-left: 8%;
+		/* width: 56%; */
+		width: 80%;
+	}
+	.cont-descripcion{
+		width: 310px;
+		height: 400px;
+		margin-left:8%;
+		margin-top: 2%;
+		font-size: 1em;
+	}
+
+	#foto{
+		margin-top:-95%;
+		margin-left: 150%;
+	}
+
+	.cont-transparent{
+		background-color: rgba(0,0,0,.6);
+		padding: 22px 10px;
+	}
+	
+	#text-habilidades{
+		padding-bottom: 5%;
+	}
+
+	.skill-bar-percent {
+		color:rgba(0, 0, 0, .7);
+	}
+
+	#text-bar-photoshop, #text-bar-js, #text-bar-github{
+		right:50px;
+	}
+
+	.margen {
+    	margin-left: 7%;
+    	margin-right: 5%;
+    	color:#FFF;
+	}
+
+	.m-titulo {
+    	margin-right: 18%;
+	}
+
+	.mt-parrafo {
+		margin-top: 40px;
+	}
+
+	#section4{
+		padding: 0% 0 0 0;
+	}
+
+	.fontsize {
+    	font-size: 1.1em;
+	}
+
+	.ib-container  article{
+		width: 200px;
+		height: 200px;
+	}
+
+	#mg1, #mg2, #ml-5{
+		margin-left: 23.5%;
+	}
+
+	#mg2{
+		margin-top: 10%;
+	}
+	
+	#section5{
+		padding: 22% 0 0 0;
+	}
+
+	#h2{
+		margin-top: 2%;
+		font-size: 1.2em;
+	}
+
+	.container{
+		margin: 60px 15px 15px 15px!important;
+		padding: 0px!5px important;
+		width: 86%!important;
+	}
+
+	.text-blog{
+		font-size: 1em;
+	}
+
+	.img-blog{
+		margin:auto;
+		display: inline-block;
+		width: 35%;
+		height: 35%;
+	}
+
+	#btn-blog{
+		margin-top: 5%;
+		border-radius: 5%;
+	}
+
+	h5 {
+    	margin-right: 30%;
+    	margin-top: 100%;
+    	color:#000;
+	}
+
+	#title-contact{
+		margin-top: 35%;
+	}
+	
+	#frase-contact{
+	    margin-top: -50%;
+	    margin-left: 18%;
+	    font-size: 1.1em;
+	}
+
+	#icono1{
+		margin: 400% -70% -70% 320%;
+	}
+
+	#icono2{
+		margin: 415% 0% 0% 235%;
+	}
+
+	#icono3{
+		margin: 430% 0% 110% 150%;
+	}
+
+	#icono4{
+		margin: 440% 0% 100% 30%;
+	}
+}
 

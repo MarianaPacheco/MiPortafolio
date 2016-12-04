@@ -258,10 +258,23 @@
 	}
 
 	#section3{
-		padding: 0% 0% 30% 0%;
+		padding: 0% 0% 27% 0%;
 	}
 
 	.cont-transparent-skills{
 		padding: 14px 10px;
+	}
+
+	#section5{
+		padding: 17% 0 0 0;
+	}
+
+	.ib-container  article{
+		width: 150px;
+		height: 150px;
+	}
+
+	#mg1, #ml-5{
+		margin-left: 30%;
 	}
 }

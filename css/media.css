@@ -277,4 +277,21 @@
 	#mg1, #ml-5{
 		margin-left: 30%;
 	}
+
+	.cont-transparent-blog{
+		padding: 6px 10px;
+	}
+	
+	.container-blog{
+		margin: -80px 15px 15px 15px!important;
+	}
+
+	#h2{
+		margin-top: 2%;
+		font-size: 1.1em;
+	}
+
+	.text-blog {
+    	font-size: .9em;
+	}
 }

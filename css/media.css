@@ -298,4 +298,16 @@
 	#section6{
 		padding: 40% 0 0 0;
 	}
+
+	#frase-contact{
+	    margin-top: -60%;
+	    margin-left: -65%;
+	    font-size: 1em;
+	}
+
+	#foot-contact{
+		margin-top: 10%;
+		margin-right:50%;
+	}
+	
 }

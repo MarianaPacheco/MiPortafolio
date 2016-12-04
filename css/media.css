@@ -5,7 +5,7 @@
 
 } */
 
-@media screen and (max-width: 760px) {
+/* @media screen and (max-width: 760px) {
 	.hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     	background-color: #FFFFFF!important;
 	}
@@ -70,7 +70,7 @@
 
 	.hr-orange2 {
 		margin-left: 8%;
-		/* width: 56%; */
+		width: 56%;
 		width: 80%;
 	}
 	.cont-descripcion{
@@ -200,7 +200,7 @@
 	#icono4{
 		margin: 440% 0% 100% 30%;
 	}
-}
+} */
 
 
 @media screen and (max-width: 670px) {

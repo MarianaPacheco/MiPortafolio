@@ -202,3 +202,34 @@
 	}
 }
 
+
+@media screen and (max-width: 670px) {
+	.logo {
+        margin-left: 5%;
+	}
+
+	.foot-home{
+	margin-top: 70%;
+	margin-left: 3%;
+	color:red;
+	}
+
+	.titulo{
+		margin-top: 25%;
+	}
+
+	h5 {
+	    margin-top: -9%;
+	    font-size: 12px;
+	}
+
+	#foto{
+		margin-left: 130%;
+		width: 100%;
+		height:100%;
+	}
+
+	#text-habilidades{
+		padding-bottom: 15%;
+	}
+}

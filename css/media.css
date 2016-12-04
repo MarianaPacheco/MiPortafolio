@@ -204,8 +204,14 @@
 
 
 @media screen and (max-width: 670px) {
+
+	.navbar-inverse {
+		padding: 2px 0px;
+	}
+
 	.logo {
         margin-left: 5%;
+        padding-top: 10%;
 	}
 
 	.title-coder{
@@ -214,7 +220,7 @@
 	}
 
 	.titulo{
-		margin-top: 25%;
+		margin-top: 20%;
 	}
 
 	#titulo1{
@@ -239,7 +245,7 @@
 	}
 
 	#foot-soy{
-		margin-top:-20%;
+		margin-top:-12%;
 		margin-right:45%;
 		color: rgba(255,255,255,0.4);
 	}

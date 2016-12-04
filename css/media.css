@@ -257,7 +257,11 @@
 		height:100%;
 	}
 
-	#text-habilidades{
-		padding-bottom: 15%;
+	#section3{
+		padding: 0% 0% 30% 0%;
+	}
+
+	.cont-transparent-skills{
+		padding: 14px 10px;
 	}
 }

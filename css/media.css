@@ -178,28 +178,22 @@
 	#title-contact{
 		margin-top: 35%;
 	}
-	
-	#frase-contact{
-	    margin-top: -50%;
-	    margin-left: 18%;
-	    font-size: 1.1em;
-	}
 
-	#icono1{
+	/* #icono1{
 		margin: 400% -70% -70% 320%;
 	}
-
+	
 	#icono2{
 		margin: 415% 0% 0% 235%;
 	}
-
+	
 	#icono3{
 		margin: 430% 0% 110% 150%;
 	}
-
+	
 	#icono4{
 		margin: 440% 0% 100% 30%;
-	}
+	} */
 }
 
 
@@ -299,10 +293,8 @@
 		padding: 40% 0 0 0;
 	}
 
-	#frase-contact{
-	    margin-top: -60%;
-	    margin-left: -65%;
-	    font-size: 1em;
+	#title-contact{
+		margin-top: 5%;
 	}
 
 	#foot-contact{

@@ -293,7 +293,7 @@ body{
 }
 
 .btn-md{
-	margin-top: 4%;
+	margin-top: 2%;
 	padding: 1% 4%;
 	background-color: #df4c2d;
 	border: none;
@@ -557,11 +557,11 @@ h5 {
 }
 
 #text-bar-github{
-	right:410px;
+	right:450px;
 }
 
 .bars{
-	padding-bottom: 3%; 
+	padding-bottom: 1%; 
 }
 
 /* slider */
